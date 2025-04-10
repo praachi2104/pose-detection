@@ -19,7 +19,7 @@ This project is part of a fitness application idea aimed at helping users perfor
 
 1. Clone the repository or download the project folder:
    ```bash
-   git clone https://github.com/yourusername/pose-detection.git
+   git clone git clone https://github.com/praachi2104/pose-detection.git
    cd "pose detection"
 
 Install the required packages:
